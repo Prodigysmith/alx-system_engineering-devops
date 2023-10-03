@@ -1,0 +1,2 @@
+#!/bin/bash
+cur -c l |paste -s -d ''
